@@ -3,7 +3,10 @@ Rencana Content Atomy
 - Javascript
  * ES6
  * Framework Javascript 
+   ^View
 - Struktur data dasar
 - PHP Framework
+  ^Laravel
 - Interview
 - Vlogs
+- Python
