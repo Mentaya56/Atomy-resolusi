@@ -3,7 +3,8 @@ Rencana Content Atomy
 - Javascript
  * ES6
  * Framework Javascript 
-   ^View
+   ^ View
+   ^ React
 - Struktur data dasar
 - PHP Framework
   ^Laravel
